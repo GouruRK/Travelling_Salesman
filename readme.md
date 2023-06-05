@@ -22,7 +22,7 @@ Once on the `travelling_salesman` directory, you can compile it by using the com
 
 Note that the makefile uses `gcc` by default.
 
-This program use [MLV](http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/index.html) as graphical library. Make sure to [dowload](http://www-igm.univ-mlv.fr/~boussica/mlv/api/English/html/download.html) it.
+This program use [MLV](http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/index.html) as graphical library. Make sure to [download](http://www-igm.univ-mlv.fr/~boussica/mlv/api/English/html/download.html) it.
 
 ### Run ?
 
